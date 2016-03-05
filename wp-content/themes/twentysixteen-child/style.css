@@ -1,0 +1,21 @@
+/*
+ Theme Name:   Twenty Sixteen Child
+ Theme URI:    http://wpsites.net
+ Description:  Twenty Sixteen Child Theme
+ Author:       Brad Dalton
+ Author URI:   http://wpsites.net/bradley-james-dalton-wordpress-developer/
+ Template:     twentysixteen
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twentysixteen-child
+*/
+
+
+/* Add your custom css below */
+
+.site-branding .site-title a:hover,
+.site-branding .site-title a:focus {
+	color: yellow;
+}
