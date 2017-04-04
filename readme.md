@@ -1,1 +1,1 @@
-wordpress practice
+wpress
